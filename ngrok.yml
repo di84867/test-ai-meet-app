@@ -1,0 +1,9 @@
+version: "3"
+agent:
+  authtoken: 2Puv5xejbFqOmtv03c4pLH2SLBj_4veoC233Z76otKbmgR6AF
+
+tunnels:
+  meetai:
+    proto: http
+    addr: 3000
+    domain: perceptible-marilee-despotically.ngrok-free.dev

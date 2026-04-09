@@ -9,7 +9,7 @@
     "lint": "next lint",
     "db:push": "drizzle-kit push",
     "db:studio": "drizzle-kit studio",
-    "dev:webhook": "ngrok http --url=perceptible-marilee-despotically.ngrok-free.dev 3000"
+    "dev:webhook": "ngrok start --config=ngrok.yml meetai"
   },
   "dependencies": {
     "@dicebear/collection": "^9.2.2",
